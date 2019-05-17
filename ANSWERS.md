@@ -9,9 +9,13 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Describe Middleware?
 
+1. Middleware functions are functions that have access to the request object (req), the response object (res), and the next function in the application’s request-response cycle
 
 - [ ] Describe a Resource?
+      a endpoint that has access to a database
 
-- [ ] What can the API return to help clients know if a request was successful?
+* [ ] What can the API return to help clients know if a request was successful?
+      code 200, 201, 204
 
-- [ ] How can we partition our application into sub-applications?
+* [ ] How can we partition our application into sub-applications?
+      Routers and Middleware
