@@ -20,7 +20,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 In this challenge, create a web API around the following resources: `Projects` and `Actions`.
 
-## Self-Study/Essay Questions
+## Self-Study/Essay Questions ---ANSWERS ARE IN IT'S OWN FILE----
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
